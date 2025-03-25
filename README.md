@@ -15,4 +15,13 @@ Places API: Finds nearby places like restaurants and grocery, filtered by user p
 Geolocation API: Detects the user's current location for personalized recommendations. 
 Ticketmaster API: The Ticketmaster Discovery API allows you to search for events, attractions, or venues.​
 
+# Methodology
 User Input​​     ------->        Backend Processing (Python & API)​   ------->   Sorted Response Generation
+
+# Results
+![image](https://github.com/user-attachments/assets/5a773611-ce0d-4eeb-b8dc-e2a179905940)
+![image](https://github.com/user-attachments/assets/c8f0f32c-8fa2-4bf0-83e4-a4e3c578f73b)
+![image](https://github.com/user-attachments/assets/610b0e90-1801-4ed5-a834-c45695b1f842)
+
+
+
